@@ -75,11 +75,11 @@ plt.show()
 ```
 ## OUTPUT
 
-![Output1](Screenshot%202026-03-15%20193107.png)
+![Output3](Screenshot%202026-03-15%20193132.png)
 
 ![Output2](Screenshot%202026-03-15%20193120.png)
 
-![Output3](Screenshot%202026-03-15%20193132.png)
+![Output1](Screenshot%202026-03-15%20193107.png)
 
 ## Result:
 Thus, customer segmentation was successfully implemented using K-Means clustering, grouping customers into distinct segments based on their annual income and spending score. 
